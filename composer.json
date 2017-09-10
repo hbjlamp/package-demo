@@ -1,0 +1,19 @@
+{
+    "name": "hubijun/hello",
+    "description": "my first package test",
+    "type": "MIT",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hbjlamp",
+            "email": "595736620@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zeroone\\Hello\\":"src"
+        }
+    },
+}
